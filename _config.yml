@@ -9,7 +9,7 @@ search                   : true # 사이트 우측 상단 검색 활성화
 search_full_content      : # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
 author:
   name             : "김기훈"
-  #avatar           : "/assets/images/bio-photo.jpg" # 프로필 사진
+  #avatar           : "rlgnswk/rlgnswk.github.io/profile.jpg" # 프로필 사진
   bio              : "인공지능에 관심있는 학부생입니다."
   location         : "Seoul,Korea"
   email            : "rlgnswk12@gmail.com"
