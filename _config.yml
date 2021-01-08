@@ -7,3 +7,12 @@ url                      : "https://rlgnswk.github.io/" # 블로그 주소
 repository               : "https://github.com/rlgnswk/rlgnswk.github.io" # 블로그 github 리포지토리
 search                   : true # 사이트 우측 상단 검색 활성화
 search_full_content      : # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
+author:
+  name             : "김기훈"
+  #avatar           : "/assets/images/bio-photo.jpg" # 프로필 사진
+  bio              : "인공지능에 관심있는 학부생입니다."
+  location         : "Seoul,Korea"
+  email            : "rlgnswk12@gmail.com"
+  # uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
+  # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
+  github : "rlgnswk" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.
