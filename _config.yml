@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+locale                   : "ko" # 타깃 국가 설정
+title                    : "김기훈의 논문 읽기" # 블로그 좌측상단의 제목
+name                     : "김기훈의 논문 읽기"
+description              : "논문을 읽고 기록으로 남겨보려고 합니다."
+url                      : "https://rlgnswk.github.io/" # 블로그 주소
+repository               : "https://github.com/rlgnswk/rlgnswk.github.io" # 블로그 github 리포지토리
+search                   : true # 사이트 우측 상단 검색 활성화
+search_full_content      : # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
