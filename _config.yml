@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 locale                   : "ko" # 타깃 국가 설정
-title                    : "ㄱㄱㅎ 의 논문 읽기" # 블로그 좌측상단의 제목
+title                    : "김기훈 의 논문 읽기" # 블로그 좌측상단의 제목
 name                     : "김기훈의 논문 읽기"
 description              : "논문을 읽고 기록으로 남겨보려고 합니다."
 url                      : "https://rlgnswk.github.io/" # 블로그 주소
